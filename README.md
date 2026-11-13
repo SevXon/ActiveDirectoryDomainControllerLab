@@ -258,3 +258,19 @@ Cybersecurity Student | IT Infrastructure | Offensive Security
 
 
 
+
+## Active Directory User Management and Access Control
+
+Expanded the existing AD DS lab by creating and configuring 10 domain user accounts and three security groups: Accounting, Attorneys, and Office.
+
+Configured shared folders for each department using NTFS and share permissions. Disabled permission inheritance and removed unnecessary access.
+
+Tested access from the Windows 11 domain workstation using multiple domain accounts. Verified authorized access to department folders and confirmed that unauthorized users were denied access.
+
+### Skills Demonstrated
+- Active Directory user and group management
+- Role based access control
+- NTFS and SMB share permissions
+- Windows Server 2025 administration
+- Windows 11 domain authentication
+- Access control testing and troubleshooting
